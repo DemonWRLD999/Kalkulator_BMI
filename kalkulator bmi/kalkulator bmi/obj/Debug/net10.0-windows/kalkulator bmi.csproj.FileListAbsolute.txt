@@ -1,0 +1,16 @@
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\bin\Debug\net10.0-windows\kalkulator bmi.exe
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\bin\Debug\net10.0-windows\kalkulator bmi.deps.json
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\bin\Debug\net10.0-windows\kalkulator bmi.runtimeconfig.json
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\bin\Debug\net10.0-windows\kalkulator bmi.dll
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\bin\Debug\net10.0-windows\kalkulator bmi.pdb
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\obj\Debug\net10.0-windows\kalkulator_bmi.Form1.resources
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\obj\Debug\net10.0-windows\kalkulator bmi.csproj.GenerateResource.cache
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\obj\Debug\net10.0-windows\kalkulator bmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\obj\Debug\net10.0-windows\kalkulator bmi.AssemblyInfoInputs.cache
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\obj\Debug\net10.0-windows\kalkulator bmi.AssemblyInfo.cs
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\obj\Debug\net10.0-windows\kalkulator bmi.csproj.CoreCompileInputs.cache
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\obj\Debug\net10.0-windows\kalkulator bmi.dll
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\obj\Debug\net10.0-windows\refint\kalkulator bmi.dll
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\obj\Debug\net10.0-windows\kalkulator bmi.pdb
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\obj\Debug\net10.0-windows\kalkulator bmi.genruntimeconfig.cache
+C:\Users\ZSP1\source\repos\kalkulator bmi\kalkulator bmi\obj\Debug\net10.0-windows\ref\kalkulator bmi.dll
